@@ -1,0 +1,25 @@
+flutter_launcher_icons:
+    image_path: "assets/images/logo.png"
+
+    android: true
+    min_sdk_android: 21
+    adaptive_icon_background: "#FFFFFF" # Set a solid background color or image
+    adaptive_icon_foreground: "assets/images/logo.png" # Same image path as base
+
+    ios: true
+    remove_alpha_channel_ios: true
+
+    web:
+        generate: false
+        image_path: "assets/images/logo.png" # Replace with actual image path
+        background_color: "#FFFFFF" # Set to your preferred background color
+        theme_color: "#000000" # Set theme color for PWA
+
+    windows:
+        generate: false
+        image_path: "assets/images/logo.png" # Replace with actual image path
+        icon_size: 256 # Use a higher resolution for better scaling
+
+    macos:
+        generate: false
+        image_path: "assets/images/logo.png" # Replace with actual image path
