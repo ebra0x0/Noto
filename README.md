@@ -1,16 +1,11 @@
 # Noto
 
-A new Flutter project.
+# Simple Notes App  
 
-## Getting Started
+A minimalistic and user-friendly notes application designed for quick text note-taking with customization options.  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
--   [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
--   [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features  
+- **Theme Control**: Switch between dark and light themes for a personalized experience.  
+- **Custom Note Colors**: Organize or personalize your notes by assigning unique colors to each one.  
+- **Search Functionality**: Quickly find your notes with a built-in search feature.  
+- **Simple and Intuitive**: Clean design focused on ease of use.
